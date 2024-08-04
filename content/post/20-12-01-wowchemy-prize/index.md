@@ -1,6 +1,6 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Smart Charging reduces electricty costs
+date: 2024-08-04
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
