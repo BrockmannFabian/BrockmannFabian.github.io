@@ -10,8 +10,8 @@ main:
   - name: News
     url: post
     weight: 20
-  - name: Author
-    url: Author
+  - name: People
+    url: people
     weight: 30
   - name: Events
     url: event
