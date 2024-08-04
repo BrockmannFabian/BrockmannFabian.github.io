@@ -1,11 +1,11 @@
 ---
-title: Author
+title: People
 date: 2024-08-04
 
 type: landing
 
 sections:
-  - block: Author
+  - block: People
     content:
       title: Meet the Team
       # Choose which groups/teams of users to display.
