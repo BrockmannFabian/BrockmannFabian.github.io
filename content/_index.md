@@ -13,8 +13,8 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The website for information about the impact of electric vehicle charging!
+        This website shows information and analysis of different electric vehicle charging strategies for multiple European countries with a special focus on **Battery Lifetime**, **Electricity Costs**, and **Electricity Grid Power Losses**.
+    
   
   - block: collection
     content:
