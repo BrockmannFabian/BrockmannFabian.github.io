@@ -13,7 +13,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        This website shows information and analysis of different electric vehicle charging strategies for multiple European countries with a special focus on **Battery Lifetime**, **Electricity Costs**, and **Electricity Grid Power Losses**.
+        This website shows information and analysis of different electric vehicle charging strategies for multiple European countries with a special focus on **Battery** **Lifetime**, *Electricity Costs*, and *Electricity Grid Power Losses*.
     
   
   - block: collection
