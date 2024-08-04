@@ -5,7 +5,7 @@ date: 2024-08-04
 type: landing
 
 sections:
-  - block: people
+  - block: Author
     content:
       title: Meet the Team
       # Choose which groups/teams of users to display.
