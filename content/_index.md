@@ -12,9 +12,10 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <div style="text-align: justify">The website for information and analysis of different electric vehicle charging strategies for multiple European countries. For private vehicles, we focus on **Battery Lifetime**, **Electricity Costs**, and the impact on the **Electricity Grid**. For commercial trucks, we focus on charging strategies for **Route Planning** and **Scheduling**.</div>
+        <div style="text-align: justify">The website for information and analysis of different electric vehicle charging strategies for multiple European countries.
+    For private vehicles, we focus on **Battery Lifetime**, **Electricity Costs**, and the impact on the **Electricity Grid**.
+    For commercial trucks, we focus on charging strategies for **Route Planning** and **Scheduling**.</div>
     
-  
   - block: collection
     content:
       title: Latest News
