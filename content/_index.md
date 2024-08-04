@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        This website shows information and analysis of different electric vehicle charging strategies for multiple European countries with a special focus on **Battery** **Lifetime**, **Electricity Costs**, and **Electricity Grid Power Losses**.
+        The website for information and analysis of different electric vehicle charging strategies for multiple European countries. For private vehicles, we focus on **Battery** Lifetime**, **Electricity Costs**, and the impact on the **Electricity Grid**. For commercial trucks, we focus on charging strategies for **Route Planning** and **Scheduling**.
     
   
   - block: collection
