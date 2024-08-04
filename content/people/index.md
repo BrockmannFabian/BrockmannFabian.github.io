@@ -1,6 +1,6 @@
 ---
-title: People
-date: 2022-10-24
+title: Author
+date: 2024-08-04
 
 type: landing
 
