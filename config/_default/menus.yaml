@@ -11,7 +11,7 @@ main:
     url: post
     weight: 20
   - name: Author
-    url: people
+    url: Author
     weight: 30
   - name: Events
     url: event
