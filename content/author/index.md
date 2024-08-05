@@ -15,7 +15,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-      - title: Teaching Assistant
+        - title: Teaching Assistant
           company: NHH - Norwegian School of Economics
           company_url: 'https://www.nhh.no/en/departments/business-and-management-science/'
           company_logo: 'NHH'
@@ -24,7 +24,7 @@ sections:
           date_end: ''
           description: In spring semesters I am teaching assistent to [Mario Guajardos](https://www.nhh.no/en/employees/faculty/mario-guajardo/) course on Supplu Chain Management (Master Level). In fall semesters I am teaching assistent to [Giacomo Beninis](https://www.nhh.no/en/employees/faculty/giacomo-benini/) course on pricing Analytics and Revenue Management (Master level).
       
-      - title: Reserach Assistant
+        - title: Reserach Assistant
           company: University of Applied Sciences Upper Austria
           company_url: 'https://fh-ooe.at/en/campus-steyr/about-the-faculty'
           company_logo: 'FHOOE'
@@ -33,7 +33,7 @@ sections:
           date_end: '2022-06-01'
           description: I was part of the project [InnoFIT](https://projekte.ffg.at/projekt/3042801).My main tasks were the development of simulations for production planning, the development of tools to improve production planning and communication with industry partners.
       
-    - title: Dual Student
+      - title: Dual Student
           company: Ardagh Group
           company_url: 'https://www.ardaghgroup.com/'
           company_logo: 'ardagh'
