@@ -19,7 +19,7 @@ sections:
     content:
       title: Introductory Information
       subtitle: ''
-      text: 'Check out my recent blog posts below!'
+      text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
