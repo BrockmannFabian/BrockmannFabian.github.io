@@ -1,6 +1,6 @@
 ---
 title: Truck Charging Scheduling
-summary: Write about your project here...
+summary: Explore the range of the new generation of electric trucks!
 tags:
   - commercial vehicle
 date: 2024-01-01
