@@ -10,9 +10,7 @@ main:
   - name: Author
     url: author
     weight: 20
-  - name: Blog
-    url: project
-    weight: 30
+
 
 
 
