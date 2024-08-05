@@ -9,7 +9,7 @@ sections:
     content:
       title: |
         Smart EV Charging Solutions
-      #image:
+      # image:
        # filename: welcome.jpg
       text: |
         <div style="text-align: justify"> <br> The website for information and analysis of different electric vehicle charging strategies.<br> For private vehicles, we focus on <b>Battery Lifetime</b>, <b>Electricity Costs</b>, and the impact on the <b>Electricity Grid</b>.<br> For commercial trucks, we focus on charging strategies for <b>Route Planning</b> and <b>Scheduling</b>.</div>
