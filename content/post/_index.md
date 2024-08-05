@@ -1,5 +1,5 @@
 ---
-title: Introductory Information
+title: Introduction
 
 # Listing view
 view: compact
