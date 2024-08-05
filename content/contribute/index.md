@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: You can become a guest author!
-      subtitle: ''
-      text: test
+      title: You can becomea guest author!
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 ---
