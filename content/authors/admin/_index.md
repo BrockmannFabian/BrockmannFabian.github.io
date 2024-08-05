@@ -63,5 +63,5 @@ user_groups:
   - Researchers
 ---
 
-Fabian Brockmann is a PhD Reserach Scholar at the Center of Shipping and Transportation at the Norwegian School of Economics. His research interests includes the application of operations reserach methods to energy markets, transportation and the combination of both. A special focus lies in charging strategies for private and commercial car/vehicle owner.
+Fabian Brockmann is a PhD Reserach Scholar at the Center of Shipping and Transportation at the Norwegian School of Economics. His research interests include the application of operations reserach methods to energy markets, transportation and the combination of both. A special focus lies in charging strategies for private and commercial car/vehicle owner.
 
