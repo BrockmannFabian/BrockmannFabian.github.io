@@ -11,5 +11,5 @@ main:
     url: author
     weight: 20
 - name: Contribute
-  url: contribute
-  weight: 30
+    url: contribute
+    weight: 30
