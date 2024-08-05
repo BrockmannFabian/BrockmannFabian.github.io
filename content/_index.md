@@ -18,7 +18,7 @@ sections:
     id: projects
     content:
       title: Projects
-      subtitle: My subtitle
+      subtitle: ''
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
         # Folders to display content from
@@ -46,10 +46,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Private Vehicle
+          tag: private vehicle
+        - name: Commercial Vehicle
+          tag: commercial vehicle
     design:
       columns: '1'
 ---
