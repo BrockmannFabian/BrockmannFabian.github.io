@@ -3,7 +3,7 @@ title: Author
 type: landing
 
 sections:
-  - block: resume-biography
+  - block: biography
     content:
       # The user's folder name in `content/authors/`
       username: admin
