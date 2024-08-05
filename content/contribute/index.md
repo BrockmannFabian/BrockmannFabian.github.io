@@ -7,6 +7,5 @@ sections:
     content:
       title: You can become a guest author!
       subtitle: ''
-      text: |
-        test
+      text: test
 ---
