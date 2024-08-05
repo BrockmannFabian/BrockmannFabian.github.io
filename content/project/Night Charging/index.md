@@ -4,9 +4,6 @@ summary: Explore the potential of shifting your EV charging sessions from evenin
 tags:
   - private vehicle
 date: 2024-01-01
----
-title: Charging Cost Minimization
-type: landing
 
 sections:
   - block: slider
