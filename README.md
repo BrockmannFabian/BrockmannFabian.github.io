@@ -5,4 +5,4 @@ This site is currently under construction!
 
 or
 
-write me an email: Fabian.Brockmann@nhh.no
+write me an [email](mailto:Fabian.Brockmann@nhh.no)
