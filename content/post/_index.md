@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: post
 
 # Listing view
 view: compact
