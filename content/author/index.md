@@ -49,12 +49,6 @@ sections:
           date_end: '2020-08-01'
           description: As a dual student, I worked full time at Ardagh Glass in Bad Münder for three months and then studied at University of applied Science Weserbergland for the next three months, repeating this cycle over a period of three years. At Ardagh, I gained hands-on experience in all aspects of the hollow glass production process and contributed to process improvement using Six Sigma methodologies.
 
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
