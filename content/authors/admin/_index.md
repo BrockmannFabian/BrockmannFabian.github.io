@@ -63,6 +63,5 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Fabian Brockmann is a PhD Reserach Scholar at the Center of Shipping and Transportation at the Norwegian School of Economics. His research interests includes the application of operations reserach methods to energy markets, transportation and the combination of both. A special focus lies in charging strategies for private and commercial car/vehicle owner.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
