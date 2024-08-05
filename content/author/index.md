@@ -22,7 +22,7 @@ sections:
           location: Bergen - Norway
           date_start: '2022-08-15'
           date_end: ''
-          description: In spring semesters I am teaching assistent to [Mario Guajardos](https://www.nhh.no/en/employees/faculty/mario-guajardo/) course on Supplu Chain Management (Master Level). In fall semesters I am teaching assistent to [Giacomo Beninis](https://www.nhh.no/en/employees/faculty/giacomo-benini/) course on pricing Analytics and Revenue Management (Master level).
+          description: In spring semesters I am teaching assistent to [Mario Guajardos](https://www.nhh.no/en/employees/faculty/mario-guajardo/) course on [Supply Chain Management](https://www.nhh.no/en/courses/supply-chain-management/) (Master Level). In fall semesters I am teaching assistent to [Giacomo Beninis](https://www.nhh.no/en/employees/faculty/giacomo-benini/) course on [Pricing Analytics and Revenue Management](https://www.nhh.no/en/courses/pricing-analytics-and-revenue-management/) (Master level).
       
         - title: Reserach Assistant
           company: University of Applied Sciences Upper Austria
@@ -31,7 +31,7 @@ sections:
           location: Steyr - Austria
           date_start: '2021-01-01'
           date_end: '2022-06-01'
-          description: I was part of the project [InnoFIT](https://projekte.ffg.at/projekt/3042801).My main tasks were the development of simulations for production planning, the development of tools to improve production planning and communication with industry partners.
+          description: I was part of the project [InnoFIT](https://projekte.ffg.at/projekt/3042801). My main tasks were the development of simulations for production planning, the development of tools to improve production planning and communication with industry partners.
       
         - title: Dual Student
           company: Ardagh Group
