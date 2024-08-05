@@ -4,6 +4,5 @@ summary: Explore the potential of shifting your EV charging sessions from evenin
 tags:
   - private vehicle
 date: 2024-01-01
-external_link: ''
 ---
 This is a test!
