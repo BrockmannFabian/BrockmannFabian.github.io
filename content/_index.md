@@ -33,11 +33,11 @@ sections:
         publication_type: ""
         featured_only: false
         exclude_featured: false
-        exclude_future: true
+        exclude_future: false
         exclude_past: false
       # Choose how many pages you would like to offset by
       # Useful if you wish to show the first item in the Featured widget
-      offset: 0
+      offset: 1
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
