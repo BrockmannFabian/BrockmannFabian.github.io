@@ -12,21 +12,20 @@ sections:
         -You can contribute to this website and become a guest author! Simply write me an [email](mailto:Fabian.Brockmann@nhh.no), write me on [LinkedIn](https://www.linkedin.com/in/fabian-brockmann/) or send me a letter! Your contribution has to fullfil the following aspects:* The Topic has to be connected to charging or routing/scheduling of electric vehicles * The contribution is **not** an opinion piece but presents results from an objective analysis * The contribution is between 200 and 2000 words
       
       email: Fabian.Brockmann@nhh.no
-      phone: 888 888 88 88
+      phone: +47 55 95 93 73
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Helleveien 30
+        city: Bergen
+        region: Vest
+        postcode: '5045'
+        country: Norway
+        country_code: NO
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '60.42321571850158'
+        longitude: ', 5.301681987963362'
+      directions: Enter through the main entrance and take the elevetor on the right hand side to floor number 4.
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday to Friday 10:00 to 15:00'
       appointment_url: ''
       #contact_links:
       #  - icon: comments
