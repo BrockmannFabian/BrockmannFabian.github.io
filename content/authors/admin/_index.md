@@ -31,7 +31,7 @@ education:
       institution: University of applied Sciences Upper Austria
       year: 2022
     - course: B.Eng. Industrial Engineering
-      institution: University of applied Science Weserbergland
+      institution: University of Applied Science Weserbergland
       year: 2020
 
 # Social/Academic Networking
@@ -41,16 +41,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:Fabian.Brockmann@nhh.no'
+  - icon: linkedin
+    icon_pack: brands
+    link: https://www.linkedin.com/in/fabian-brockmann/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
