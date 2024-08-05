@@ -7,6 +7,8 @@ main:
   - name: Tour
     url: tour
     weight: 10
+  - name: Author
+    url: author
   - name: News
     url: post
     weight: 20
