@@ -1,66 +1,58 @@
 ---
 title: Contribute
-date: 2024-10-24
 type: landing
 
 sections:
-  - block: contact
+  - block: about.biography
+    id: about
     content:
-      title: Contact
-      text: You can contribute to this website and become a guest author! Simply write me an [email](mailto:Fabian.Brockmann@nhh.no), write me on [LinkedIn](https://www.linkedin.com/in/fabian-brockmann/) or send me a letter! Your contribution has to fullfil the following aspects:* The Topic has to be connected to charging or routing/scheduling of electric vehicles * The contribution is **not** an opinion piece but presents results from an objective analysis * The contribution is between 200 and 2000 words
-      email: Fabian.Brockmann@nhh.no
-      phone: +47 55 95 93 73
-      address:
-        street: Helleveien 30
-        city: Bergen
-        region: Vestlandet
-        postcode: '5045'
-        country: Norway
-        country_code: NO
-      coordinates:
-        latitude: '60.42321571850158'
-        longitude: ', 5.301681987963362'
-      directions: Enter through the main entrance and take the elevetor on the right hand side to floor number 4.
-      office_hours:
-        - 'Monday to Friday 10:00 to 15:00'
-      appointment_url: ''
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
-      autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+  
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many experience `items` below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Teaching Assistant
+          company: NHH - Norwegian School of Economics
+          company_url: 'https://www.nhh.no/en/departments/business-and-management-science/'
+          company_logo: 'NHH'
+          location: Bergen - Norway
+          date_start: '2022-08-15'
+          date_end: ''
+          description: In spring semesters I am teaching assistent to [Mario Guajardos](https://www.nhh.no/en/employees/faculty/mario-guajardo/) course on [Supply Chain Management](https://www.nhh.no/en/courses/supply-chain-management/) (Master Level). In fall semesters I am teaching assistent to [Giacomo Beninis](https://www.nhh.no/en/employees/faculty/giacomo-benini/) course on [Pricing Analytics and Revenue Management](https://www.nhh.no/en/courses/pricing-analytics-and-revenue-management/) (Master level).
+      
+        - title: Reserach Assistant
+          company: University of Applied Sciences Upper Austria
+          company_url: 'https://fh-ooe.at/en/campus-steyr/about-the-faculty'
+          company_logo: 'FHOOE'
+          location: Steyr - Austria
+          date_start: '2021-01-01'
+          date_end: '2022-06-01'
+          description: I was part of the project [InnoFIT](https://projekte.ffg.at/projekt/3042801). My main tasks were the development of simulations for production planning, the development of tools to improve production planning and communication with industry partners.
+      
+        - title: Dual Student
+          company: Ardagh Group
+          company_url: 'https://www.ardaghgroup.com/'
+          company_logo: 'ardagh'
+          location: Bad Münder - Germany
+          date_start: '2017-08-01'
+          date_end: '2020-08-01'
+          description: As a dual student, I worked full time at Ardagh Glass in Bad Münder for three months and then studied at University of applied Science Weserbergland for the next three months, repeating this cycle over a period of three years. At Ardagh, I gained hands-on experience in all aspects of the hollow glass production process and contributed to process improvement using Six Sigma methodologies.
+
     design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+    
 ---
+
