@@ -1,5 +1,5 @@
 ---
-title: People
+title: Author
 date: 2024-08-04
 
 type: landing
