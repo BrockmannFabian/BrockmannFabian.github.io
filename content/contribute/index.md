@@ -16,7 +16,7 @@ sections:
       address:
         street: Helleveien 30
         city: Bergen
-        region: Vest
+        region: Vestlandet
         postcode: '5045'
         country: Norway
         country_code: NO
