@@ -15,10 +15,10 @@ role: PhD Reserach Scholar
 # Organizations/Affiliations
 organizations:
   - name: Norwegian School of Economics
-    url: ''
+    url: 'https://www.nhh.no/en/departments/business-and-management-science/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include energy markets, transportation and the combination of both.
 
 interests:
   - Energy Markets
