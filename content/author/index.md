@@ -40,7 +40,7 @@ sections:
           location: Bad Münder - Germany
           date_start: '2017-08-01'
           date_end: '2020-08-01'
-          description: As a dual student, I worked full time at Ardagh Glass in Bad Münder for three months and then studied at University of applied Science Weserbergland for the next three months, repeating this cycle over a period of three years. At Ardagh, I gained hands-on experience in all aspects of the hollow glass production process and contributed to process improvement initiatives using Six Sigma methodologies.
+          description: As a dual student, I worked full time at Ardagh Glass in Bad Münder for three months and then studied at University of applied Science Weserbergland for the next three months, repeating this cycle over a period of three years. At Ardagh, I gained hands-on experience in all aspects of the hollow glass production process and contributed to process improvement using Six Sigma methodologies.
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
