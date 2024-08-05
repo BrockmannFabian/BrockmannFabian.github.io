@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Charging strategies for electric vehicles
+        Smart EV Charging Solutions
       image:
         filename: welcome.jpg
       text: |
