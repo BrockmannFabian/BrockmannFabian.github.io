@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Fabian Brockmann
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Fabian
+last_name: Brockmann
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Reserach Scholar
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Norwegian School of Economics
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Energy Markets
+  - Transportation
+  - Mobility
 
 education:
   courses:
