@@ -17,9 +17,9 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Explore Blog Posts on Selected Topics!
       subtitle: ''
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: ''
       filters:
         # Folders to display content from
         folders:
