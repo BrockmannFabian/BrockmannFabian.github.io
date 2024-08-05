@@ -13,6 +13,34 @@ sections:
        # filename: welcome.jpg
       text: |
         <div style="text-align: justify"> <br> The website for information and analysis of different electric vehicle charging strategies.<br> For private vehicles, we focus on <b>Battery Lifetime</b>, <b>Electricity Costs</b>, and the impact on the <b>Electricity Grid</b>.<br> For commercial trucks, we focus on charging strategies for <b>Route Planning</b> and <b>Scheduling</b>.</div>
+        
+  - block: collection
+    id: posts
+    content:
+      title: Introductory Information
+      subtitle: ''
+      text: 'Check out my recent blog posts below!'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 2
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
     
   - block: portfolio
     id: projects
