@@ -6,7 +6,7 @@ summary: This article explains the fundamental components of smart charging!
 <div style="text-align: justify;">
 
 ## The core idea
-Smart charging can be interpreted in various ways, with different authors providing their own definitions. The central concept is that EV owners have some flexibility in their charging requirements. Typically, an EV might be connected to the electricity grid for a known duration, such as 8 hours from 22:00 to 06:00, while the actual charging time needed is less, for example, only 3 hours. This electricty load can be flexible scheduled to archive specific goals. A common goal is to minimze electricty costs. This is possible because many electricty retailors offer dynamic electricty contracts where the electricty price differs for each hour of the day. 
+Smart charging can be interpreted in various ways, with different authors providing their own definitions. The central concept is that EV owners have some flexibility in their charging requirements. Typically, an EV might be connected to the electricity grid for a known duration, such as 8 hours from 22:00 to 06:00, while the actual charging time needed is less, for example, only 3 hours. This electricty load can be scheduled to archive specific goals. A common goal is to minimze electricty costs. This is possible because many electricty retailors offer dynamic electricty price contracts where the electricty price differs for each hour of the day. 
 
 This brief description covers the main idea of smart charging. The following sections delve deeper into the **design of the electricity market**, the technical characteristics of the **electricity grid**, and the **EV owner's capacity to offer flexibility**. We will explore these three components in the upcoming sections.
 
