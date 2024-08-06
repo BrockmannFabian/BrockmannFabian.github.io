@@ -34,7 +34,7 @@ On average, the electricity price curve exhibits a typical pattern throughout th
 
 ## Electricity Grid
 
-lorem ipsum
+The electricty grid is the infrastructure necessary to transport electrical energy from producer to consumer. Producers feed electricity into the grid, while consumers draw electricity from it. Electricty grids consist of power stations, electrical substations to step voltage up or down, electric power transmission to carry power over long distances, and finally electric power distribution to customers. The combined transmission and distribution network is part of electricity delivery, known as the power grid. Whereby the transmission system transports electricty from producers over long distance at high voltages to transformers, which are connected to local distribution grids. These distribution grids operate at lower voltage and deliver electricty to consumers. Due to the technical of an electrical grid, it is not possible to store electricty in the grid itself. Therefore, supply and demand always have to match. There are two majour and simple key figures when evaluating the performance of an electricity grid.
 
 ## EV Owner Flexibility
 
