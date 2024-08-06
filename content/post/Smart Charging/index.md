@@ -30,6 +30,8 @@ Matching supply and demand occurs for each hour of the day, resulting in 24 dist
 
 On average, the electricity price curve exhibits a typical pattern throughout the day: low prices during the night, a price peak in the morning, lower prices during the day, and a second peak in the evening. The image below shows the average prices for different bidding zones for the year 2023. You can see that while all these curves follow the same general pattern, they differ in terms of the magnitude of the price peaks and the overall price level.
 
+<img src="images/DA2023.png" alt="Market Clearing Diagram" style="max-width: 100%; height: auto;">
+
 ## Electricity Grid
 
 lorem ipsum
