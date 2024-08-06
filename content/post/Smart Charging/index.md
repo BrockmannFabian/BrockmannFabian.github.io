@@ -5,7 +5,10 @@ summary: This article explains the fundamental components of smart charging!
 ---
 <div style="text-align: justify;">
 
-Smart charging can be understood in various ways, and different authors have their own definitions. It is influenced by the **design of the electricity market**, the technical characteristics of the **electricity grid**, and the **EV owner's capacity to offer flexibility**. We will explore these three components in the following sections.
+## The main idea
+Smart charging can be interpreted in various ways, with different authors providing their own definitions. The central concept is that EV owners have some flexibility in their charging requirements. Typically, an EV might be connected to the electricity grid for a known duration, such as 8 hours from 22:00 to 06:00, while the actual charging time needed is less, for example, only 3 hours. EV owners encounter dynamic electricity prices, which result from electricity auctions in which their electricity retailer participates. With information about the auction's price outcomes, the charging times of the EV can be scheduled to achieve specific goals, such as minimizing electricity costs.
+
+This brief description covers the main idea of smart charging. The following sections delve deeper into the **design of the electricity market**, the technical characteristics of the **electricity grid**, and the **EV owner's capacity to offer flexibility**. We will explore these three components in the upcoming sections.
 
 ## Design of the Electricity Market
 
