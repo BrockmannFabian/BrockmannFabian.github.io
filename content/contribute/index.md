@@ -1,5 +1,5 @@
 ---
-title: Contribution
+title: Contribute
 type: landing
 
 sections:
