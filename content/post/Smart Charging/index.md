@@ -15,6 +15,9 @@ Bids must be submitted before the gate closure time, which is typically around n
 
 Once the market results are confirmed, all accepted buy and sell orders become binding transactions, which are then cleared and settled by the clearing service providers. The image below illustrates this clearing process.
 
+<img src="images/Market clearing day ahead.png" alt="Market Clearing Diagram" style="max-width: 50%; height: auto;">
+
+
 The blue blocks represent electricity producer bids, where the height indicates the price they are willing to accept and the width represents the amount of electricity they are willing to produce. Together, these blocks form the supply curve, which shows the relationship between supply and price.
 
 The green blocks represent consumer bids, with the height indicating the price they are willing to pay and the width representing the amount they want to purchase. Combined, these blocks form the demand curve, which shows the relationship between demand and price.
