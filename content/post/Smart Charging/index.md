@@ -15,7 +15,7 @@ Bids must be submitted before the gate closure time, which is typically around n
 
 Once the market results are confirmed, all accepted buy and sell orders become binding transactions, which are then cleared and settled by the clearing service providers. The image below illustrates this clearing process.
 
-<img src="images/Market clearing day ahead.png" alt="Market Clearing Diagram" style="max-width: 100%; height: auto;">
+<img src="images/Market clearing day ahead.png" alt="Market Clearing Diagram" style="max-width: 99%; height: auto;">
 
 
 The blue blocks represent electricity producer bids, where the height indicates the price they are willing to accept and the width represents the amount of electricity they are willing to produce. Together, these blocks form the supply curve, which shows the relationship between supply and price.
@@ -30,7 +30,7 @@ Matching supply and demand occurs for each hour of the day, resulting in 24 dist
 
 On average, the electricity price curve exhibits a typical pattern throughout the day: low prices during the night, a price peak in the morning, lower prices during the day, and a second peak in the evening. The image below shows the average prices for different bidding zones for the year 2023. You can see that while all these curves follow the same general pattern, they differ in terms of the magnitude of the price peaks and the overall price level.
 
-<img src="images/DA2023.png" alt="DayAhead prices 2023" style="max-width: 100%; height: auto;">
+<img src="images/DA2023.png" alt="DayAhead prices 2023" style="max-width: 99%; height: auto;">
 
 ## Electricity Grid
 
