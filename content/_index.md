@@ -12,7 +12,10 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <div style="text-align: justify"> <br> The website for information and analysis of different electric vehicle charging strategies.<br> For private vehicles, we focus on <b>Battery Lifetime</b>, <b>Electricity Costs</b>, and the impact on the <b>Electricity Grid</b>.<br> For commercial trucks, we focus on charging strategies for <b>Route Planning</b> and <b>Scheduling</b>.</div>
+        <div style="text-align: justify;">
+        <br> Dive into the lattest articles on optimizing <b>Battery Lifetime</b>, minimizing <b>Electricity Costs</b>, and understanding the impact on the <b>Electricity Grid</b>. For commercial trucks, explore smart charging strategies that enhance <b>Route Planning</b> and <b>Scheduling</b>. Join us in driving the future of electric mobility!
+    </div>
+
         
   - block: collection
     id: posts
