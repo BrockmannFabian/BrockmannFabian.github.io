@@ -17,7 +17,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Introductory Information
+      title: Introduction
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
