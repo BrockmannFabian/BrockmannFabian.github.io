@@ -10,3 +10,6 @@ main:
   - name: Author
     url: author
     weight: 20
+  - name: Contribute
+    url: contribute
+    weight: 30
