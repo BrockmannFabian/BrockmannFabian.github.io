@@ -1,26 +1,15 @@
 ---
 title: Contribute
-date: 2024-08-04
-
 type: landing
 
 sections:
-  - block: People
+  - block: markdown
     content:
-      title: Meet the Team
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-          - Principal Investigators
-          - Researchers
-          - Grad Students
-          - Administration
-          - Visitors
-          - Alumni
-      sort_by: Params.last_name
-      sort_ascending: true
+      title: Become a guest author!
+      subtitle: It's easier than you think
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
     design:
-      show_interests: false
-      show_role: true
-      show_social: true
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
