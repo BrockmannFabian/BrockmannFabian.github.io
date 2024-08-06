@@ -51,6 +51,6 @@ Why should we care about power losses or load factors when thinking about smart 
 
 ## EV Owner Flexibility
 
-lorem ipsum
+This section will be available soon!
 
 </div>
