@@ -14,5 +14,6 @@ All supply bids with prices below the equilibrium price are accepted, as are all
 Matching supply and demand occurs for each hour of the day, resulting in 24 distinct market outcomes daily. This means there can be a different price for each hour, influenced by factors such as varying demand (e.g., higher electricity consumption by private households in the morning and evening) and fluctuating supply (e.g., increased solar power on sunny summer days). By leveraging these price differences, a simple smart charging strategy can effectively minimize charging costs.
 
 ## Electricty Grid
-
+lorem ipsum
 ## EV owner flexibility
+lorem iosum
