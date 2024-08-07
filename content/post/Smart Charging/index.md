@@ -16,6 +16,8 @@ Electricity can be traded on various power exchange markets, across different bi
 
 Both, producers and consumers must submit their bids to the power exchange market provider until gate closure, which is typically around noon. The power exchange market provider uses all submited bids to determine the accepted bids and the price by clearing the market. The following picture illustrates the process of market clearing.
 
+<img src="images/Market clearing day ahead.png" alt="Market Clearing Diagram" style="max-width: 99%; height: auto;">
+
 The blue blocks represent electricity producer bids, where the height indicates the price they are willing to accept and the width represents the amount of electricity they are willing to produce. Together, these blocks form the supply curve, which shows the relationship between supply and price.
 
 The green blocks represent consumer bids, with the height indicating the price they are willing to pay and the width representing the amount they want to purchase. Combined, these blocks form the demand curve, which shows the relationship between demand and price.
