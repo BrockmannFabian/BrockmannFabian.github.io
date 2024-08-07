@@ -1,5 +1,5 @@
 ---
-title: "Calculation Results"
+title: Calculation Results
 date: 2024-08-07
 ---
 
