@@ -38,7 +38,7 @@ sections:
           location: Steyr - Austria
           date_start: '2021-01-01'
           date_end: '2022-06-01'
-          description: test.
+          description: I was part of a project called InnoFIT. As a team of multiple reserach organizations and industry companies, we were developing tools to visualize forecast uncertainties and improve production planning performance. My main tasks were developing simulations for production planning, developing tools to improve production planning, and exchanging information with industry partners.
 
         - title: Dual Student
           company: Ardagh Group
