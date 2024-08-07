@@ -15,7 +15,9 @@ This brief description covers the main idea of smart charging. The following sec
 Electricity can be traded on various power exchange markets, across different bidding zones, and for different time slots. Most smart charging applications focus on the day-ahead market. The day-ahead market is an auction market. In this market, both electricity producers and consumers can submit bids for each hour of the next trading day. Due to practical constraints, private households typically do not place bids directly. Instead, they usually have a contract with an aggregator or a local power company. This entity handles the electricity purchasing on behalf of its customers. They use consumption forecasts to determine the amount of electricity needed and buy it in bulk for all their clients. These electricty consumers submit bids specifying the amount of electricity they want to buy, the price for that amount, and the hour of consumption. Producers submit bids in a similar format, but their goal is to sell electricity, not to buy it. 
 
 Both, producers and consumers must submit their bids to the power exchange market provider until gate closure, which is typically around noon. The power exchange market provider uses all submited bids to determine the accepted bids and the price by clearing the market. The following picture illustrates the process of market clearing.
+
 <img src="images/Market clearing day ahead.png" alt="Market Clearing Diagram" style="max-width: 99%; height: auto;">
+
 The blue blocks represent electricity producer bids, where the height indicates the price they are willing to accept and the width represents the amount of electricity they are willing to produce. Together, these blocks form the supply curve, which shows the relationship between supply and price.
 
 The green blocks represent consumer bids, with the height indicating the price they are willing to pay and the width representing the amount they want to purchase. Combined, these blocks form the demand curve, which shows the relationship between demand and price.
@@ -27,6 +29,7 @@ All supply bids with prices below the equilibrium price are accepted, as are all
 Matching supply and demand occurs for each hour of the day, resulting in 24 distinct market outcomes daily. This means there can be a different price for each hour, influenced by factors such as varying demand (e.g., higher electricity consumption by private households in the morning and evening) and fluctuating supply (e.g., increased solar power on sunny summer days). By leveraging these price differences, a simple smart charging strategy can effectively minimize charging costs.
 
 On average, the electricity price curve exhibits a typical pattern throughout the day: low prices during the night, a price peak in the morning, lower prices during the day, and a second peak in the evening. The image below shows the average prices for different bidding zones for the year 2023. You can see that while all these curves follow the same general pattern, they differ in terms of the magnitude of the price peaks and the overall price level.
+
 <img src="images/DA2023.png" alt="DayAhead prices 2023" style="max-width: 99%; height: auto;">
 
 ## Electricity Grid
