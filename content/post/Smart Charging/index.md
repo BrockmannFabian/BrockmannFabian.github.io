@@ -34,9 +34,12 @@ On average, the electricity price curve exhibits a typical pattern throughout th
 
 ## Electricity Grid
 
-The electricity grid is the infrastructure required to transport electrical energy from producers to consumers. Producers feed electricity into the grid, while consumers draw electricity from it. Electricity grids consist of power stations, electrical substations (to step voltage up or down), electric power transmission (to carry power over long distances), and electric power distribution systems to customers. The combined transmission and distribution system is known as the power grid.
+The electricity grid is the infrastructure required to transport electrical energy from producers to consumers. Producers feed electricity into the grid, while consumers draw electricity from it. Electricity grids consist of power stations, electrical substations (to step voltage up or down), electric power transmission (to carry power over long distances), and electric power distribution systems to customers. The combined transmission and distribution system is known as the power grid. The image below shows a simplified version of the electricty grid as adopted in most regions.
 
-The transmission system transports electricity from producers over long distances at high voltages to transformers, which are connected to local distribution grids. These distribution grids operate at lower voltages and deliver electricity to consumers. Due to the technical nature of an electrical grid, it is not possible to store electricity in the grid itself. Therefore, supply and demand always have to match (see **Design of the Electricty Market** above) .
+<img src="images/Electricity System" alt="Simple Electricity System" style="max-width: 99%; height: auto;">
+
+
+The transmission system transports electricity from producers over long distances at high voltages to transformers, which are connected to local distribution grids. These distribution grids operate at lower voltages and deliver electricity to consumers. Due to the technical nature of an electrical grid, it is not possible to store electricity in the grid itself. Therefore, supply and demand always have to match (see **Design of the Electricty Market** above).
 
 Two major and simple key figures are used when evaluating the performance of an electricity grid: Load Factor and Power Losses.
 
