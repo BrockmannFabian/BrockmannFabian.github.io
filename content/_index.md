@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Smart EV Charging Solutions
+        Smart EV Charging 
       image:
         filename: welcome.jpg
       text: |
