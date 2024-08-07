@@ -38,7 +38,7 @@ sections:
           location: Steyr - Austria
           date_start: '2021-01-01'
           date_end: '2022-06-01'
-          description: I was part of the project [InnoFIT](https://projekte.ffg.at/projekt/3042801). My main tasks were the development of simulations for production planning, the development of tools to improve production planning and communication with industry partners.
+          description: test.
       
         - title: Dual Student
           company: Ardagh Group
