@@ -10,6 +10,3 @@ main:
   - name: Author
     url: author
     weight: 20
-  - name: Tour
-    url: tour
-    weight: 30
