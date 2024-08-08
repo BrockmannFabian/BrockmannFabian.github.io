@@ -36,7 +36,6 @@ The electricity grid is the infrastructure required to transport electrical ener
 
 <img src="images/Electricity System.png" alt="Simple Electricity System" style="max-width: 99%; height: auto;">
 
-
 The transmission system transports electricity from producers over long distances at high voltages to transformers, which are connected to local distribution grids. These distribution grids operate at lower voltages and deliver electricity to consumers. Due to the technical nature of an electrical grid, it is not possible to store electricity in the grid itself. Therefore, supply and demand always have to match (see **Design of the Electricty Market** above).
 
 Two major and simple key figures are used when evaluating the performance of an electricity grid: Load Factor and Power Losses.
