@@ -18,9 +18,9 @@ Both, producers and consumers must submit their bids for each individuall hour o
 
 <img src="images/Market clearing day ahead.png" alt="DayAhead prices 2023" style="max-width: 99%; height: auto;">
 
-The green blocks represent electricity producer bids, where the height indicates the price they are willing to accept and the width represents the amount of electricity they are willing to produce. Together, these blocks form the supply curve, which shows the relationship between supply and price.
+The green blocks represent electricity producer bids, where the height indicates the price they are willing to accept and the width represents the amount of electricity they are willing to produce. These blocks are sorted by price, forming the supply curve, which shows the relationship between supply and price.
 
-The blue blocks represent consumer bids, with the height indicating the price they are willing to pay and the width representing the amount they want to purchase. Combined, these blocks form the demand curve, which shows the relationship between demand and price.
+The blue blocks represent consumer bids, where the height indicates the price they are willing to pay and the width represents the amount they want to purchase. When sorted by price, these blocks form the demand curve, illustrating the relationship between demand and price.
 
 The point where these two curves intersect (indicated by the yellow lightning bolt) is called the equilibrium. At this point, the market clearing price is determined, balancing supply and demand. The same amount of electricity is sold by producers as is bought by consumers.
 
