@@ -1,10 +1,8 @@
 ---
 title: Charging Cost Minimization
-summary: Explore the potential of shifting your EV charging sessions from evening to night!
+summary: Explore how the EV owner can influence the cost of charging!
 tags:
   - private vehicle
-date: 2024-01-01
+date: 2024-08-01
 ---
-<div style="text-align: justify;">
-Text.
-</div>
+Test
