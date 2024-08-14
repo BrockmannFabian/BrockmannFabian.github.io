@@ -30,5 +30,5 @@ Some text
 Some text
 
 ## Results for other Zones
-
+Some Text
 </div>
