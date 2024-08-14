@@ -1,8 +1,9 @@
 ---
-title: Charging Cost Minimization
-summary: Explore how the EV owner can influence the cost of charging!
+title: Smart Charging
+summary: Explore the range of the new generation of electric trucks!
 tags:
   - private vehicle
-date: 2024-08-01
+date: 2024-01-01
 ---
-Test.
+<br>
+The content for this contribution is coming soon! Stay tuned!
