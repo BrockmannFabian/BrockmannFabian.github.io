@@ -1,5 +1,5 @@
 ---
-title: Smart Charging
+title: Cost Minimization
 summary: Explore the range of the new generation of electric trucks!
 tags:
   - private vehicle
