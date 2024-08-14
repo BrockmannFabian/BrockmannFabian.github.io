@@ -8,9 +8,9 @@ date: 2024-08-01
 <div style="text-align: justify;">
 
 ## The core idea
-Smart charging can be interpreted in various ways, with different authors providing their own definitions. The central concept is that EV owners have some flexibility in their charging requirements. Typically, an EV might be connected to the electricity grid for a known duration, such as 8 hours from 22:00 to 06:00, while the actual charging time needed is less, for example, only 3 hours. This charging time can be scheduled to achieve specific goals. A common goal is to minimze electricty costs. This is possible because many electricty retailors offer dynamic electricty price contracts where the electricty price differs for each hour of the day.
+**Disclaimer**: This blog post delves into the cost benefits of a smart charging application. It's crucial to understand which components are genuinely part of "smart charging." To refresh your knowledge, you can read the introductory explanation of smart charging here.
 
-This brief description covers the main idea of smart charging. The following sections delve deeper into the **design of the electricity market**, the technical characteristics of the **electricity grid**, and the **EV owner's capacity to offer flexibility**. We will explore these three components in the upcoming sections.
+**Abstract**: In this article, I explore the cost benefits of applying smart charging techniques in different European countries over a time horizon from 2020 until 2023. As smart charging applications, I adopt a cost-minimizing strategy, which exploits a time-dependent electricity price. We assume EV owners follow a myopic behavior in which they do not pay attention to electricity prices but plug in their vehicles at predefined times. The actual cost-minimization is done by a flexible charging strategy, which controls the charging of the EV. As a result, I show that the myopic choice of an EV owner has a great influence on charging costs. An explanation of the Analysis is provided for Germany. I also provide the results and some minor explanations for Norway 1, France, the United Kingdom, and Spain.
 
 ## Design of the Electricity Market
 
