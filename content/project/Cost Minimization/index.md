@@ -7,10 +7,6 @@ date: 2024-08-01
 ---
 <div style="text-align: justify;">
 
-Disclaimer: This blog post delves into the cost benefits of a smart charging application. It's crucial to understand which components are genuinely part of "smart charging." To refresh your knowledge, you can read the introductory explanation of smart charging here.
-
-Abstract: In this article, I explore the cost benefits of applying smart charging techniques in different European countries over a time horizon from 2020 until 2023. As smart charging applications, I adopt a cost-minimizing strategy, which exploits a time-dependent electricity price. We assume EV owners follow a myopic behavior in which they do not pay attention to electricity prices but plug in their vehicles at predefined times. The actual cost-minimization is done by a flexible charging strategy, which controls the charging of the EV. As a result, I show that the myopic choice of an EV owner has a great influence on charging costs. An explanation of the Analysis is provided for Germany. I also provide the results and some minor explanations for Norway 1, France, the United Kingdom, and Spain.
-
 ## Design of the Electricity Market
 
 Electricity can be traded on various power exchange markets, across different bidding zones, and for different time slots. Most smart charging applications focus on the day-ahead market. The day-ahead market is an auction market. In this market, both electricity producers and consumers can submit bids for each hour of the next trading day. Due to practical constraints, private households typically do not place bids directly. Instead, they usually have a contract with an aggregator or a local power company. This entity handles the electricity purchasing on behalf of its customers. They use consumption forecasts to determine the amount of electricity needed and buy it in bulk for all their clients. These electricty consumers submit bids specifying the amount of electricity they want to buy, the price for that amount, and the hour of consumption. Producers submit bids in a similar format, but their goal is to sell electricity, not to buy it.
