@@ -50,7 +50,7 @@ Why should we care about power losses or load factors when thinking about smart 
 
 ## EV Owner Flexibility
 
-As discussed in previous sections, the time it takes to charge an EV is crucial as it indicates the flexibility the EV can provide. Both EVs and their charging devices are rapidly advancing. Modern EV batteries typically range from 30 to 50 kWh.
+As discussed in previous sections, the time it takes to charge an EV is crucial as it indicates the flexibility the EV can provide. Both EVs and their charging devices are rapidly advancing. Modern EV batteries typically range from 30 to 100 kWh.
 
 EV charging initially involved simply plugging the vehicle into a home socket, resulting in a power output of around 2.3 kW. This method is known as **Level 1 Charging** and takes between 13 and 22 hours to fully charge an EV. While Level 1 charging is still an option, it is generally not recommended due to safety concerns, such as the risk of fire.
 
