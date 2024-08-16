@@ -5,6 +5,4 @@ tags:
   - private vehicle
 date: 2024-01-01
 ---
-<div style="text-align: justify;">
-test
-</div>
+test.
