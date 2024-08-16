@@ -18,7 +18,7 @@ Soon, households may face time-dependent electricity prices, based on the day-ah
 With the emerging trends of electric vehicles, rising energy prices, and the adoption of smart meters, more and more European households hold electricity contracts in which they pay a time-dependent electricity price. Typically, this time-dependent price is based on the day-ahead market price of electricity in the bidding zone the household is located in. This price is set through daily auctions for various zones in Europe. Each zone holds a daily auction to determine prices based on supply and demand. These time-dependent prices allow smart charging applications to optimize charging costs. Besides the electricity price, consumers also pay grid fees, taxes, and other charges, which vary by country and zone. This article does not consider such levies. While the smart charging application schedules the charging times of the EV once it is plugged in, the EV owner must decide when and for how long to plug in the vehicle. This decision is crucial, as it can significantly impact the cost of charging.  This article aims to answer the following questions.
 
 
-***How can a myopic EV owner decrease the cost of charging?***
+**How can a myopic EV owner decrease the cost of charging?**
 
 
 I answer this question in this article, where I 1) show how a myopic EV owner behaves, 2) show how a cost-minimizing charging application can be modeled, 3) give an overview of day-ahead electricity prices in Germany (2020 - 2023), 4) show and analyzing the results, and lastly 5) show the data for other European countries.
