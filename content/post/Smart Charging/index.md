@@ -1,7 +1,6 @@
 ---
 title: Introduction to Smart Charging
 date: 2024-08-06
-tag: Introduction
 summary: This article explains the fundamental components of smart charging!
 ---
 <div style="text-align: justify;">
