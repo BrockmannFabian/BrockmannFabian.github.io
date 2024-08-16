@@ -5,6 +5,12 @@ tags:
   - private vehicle
 date: 2024-01-01
 ---
-<div style="text-align: justify;">
-Your text here will be justified. This method is simple and effective for ensuring that the text stretches evenly across the page, aligning both the left and right edges. It's especially useful for paragraphs of text where you want a clean, professional appearance.
+<style>
+.justify-text {
+    text-align: justify;
+}
+</style>
+
+<div class="justify-text">
+Your text here will be justified. You can write multiple paragraphs, and they will all be justified to the left and right edges.
 </div>
