@@ -29,7 +29,7 @@ sections:
           - post
         author: ""
         category: ""
-        tag: ""
+        tag: Introduction
         publication_type: ""
         featured_only: false
         exclude_featured: false
