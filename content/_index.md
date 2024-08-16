@@ -41,7 +41,6 @@ sections:
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
-
     design:
       columns: '1'
 ---
