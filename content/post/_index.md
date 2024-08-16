@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Material
 
 # Listing view
 view: compact
