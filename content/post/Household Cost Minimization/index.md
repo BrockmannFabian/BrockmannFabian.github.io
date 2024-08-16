@@ -7,7 +7,7 @@ summary: Explore how to properly use your smart charging device!
 
 #### Disclaimer
 
-This blog post delves into the cost benefits of a smart charging application. To avoid building a narrow-minded opinion, it is crucial to understand which components are genuinely part of smart charging. To refresh your knowledge, you can read the introductory explanation of smart charging.
+This blog post delves into the cost benefits of a smart charging application. To avoid building a narrow-minded opinion, it is crucial to understand which components are genuinely part of smart charging. To refresh your knowledge, you can read the introductory explanation of smart charging here.
 
 #### Abstract
 
@@ -15,5 +15,6 @@ Soon, households may face time-dependent electricity prices, based on the day-ah
 
 ## Introduction
 
-test
+test.
+
 </div>
