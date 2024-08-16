@@ -3,7 +3,6 @@ title: Cost Minimization for EV owner
 date: 2024-08-06
 summary: Explore how to properly use your smart charging device!
 ---
-<div style="text-align: justify;">
 
 #### Disclaimer
 
@@ -17,4 +16,3 @@ Soon, households may face time-dependent electricity prices, based on the day-ah
 
 test.
 
-</div>
