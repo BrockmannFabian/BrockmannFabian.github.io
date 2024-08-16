@@ -26,5 +26,7 @@ I answer this question in this article, where I 1) show how a myopic EV owner be
 ### The behavior of a myopic EV owner
 I assume a myopic EV owner does not pay attention to electricity prices. This may be a strong assumption, given that the EV owner is facing time-dependent electricity prices. However, I assume the EV owner's knowledge and interest in the electricity market is limited. The EV owner cares more about the remaining range of the vehicle, in order to be able to use it on the next day. Therefore, the EV owner is just an entity that enables a connection between the EV and the charging application at predefined time horizons. The actual scheduling and charging of the EV are done by the smart charging application. Therefore, I define different EV owner behavior, they define the plug-in time of the EV. In addition to the smart charging strategies, I also define the plug-and-charge strategy, where the EV owner comes home and simply plugs in the vehicle to start charging immediately.  I also define one special strategy, recharging on Sundays. This represents a car-free Sunday, where the car is connected to the charging station every Saturday from 22 o'clock until Monday morning at 7 o'clock.
 
-### Optimizing the charging Schedule - Smart Charging 
+<img src="Images/Strategies.png" alt="Strategies" style="max-width: 99%; height: auto;">
+
+### Optimizing the charging schedule - Smart Charging 
 </div>
