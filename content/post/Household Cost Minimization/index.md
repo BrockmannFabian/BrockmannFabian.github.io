@@ -1,6 +1,8 @@
 ---
-title: Cost minimization for EVs
+title: Cost Minimzation for commuter EVs
 date: 2024-08-16
-summary: Explore how to properly use your smart charging application to minimize charging costs!
+summary: Explore!
 ---
-test.
+<div style="text-align: justify;">
+test
+</div>
